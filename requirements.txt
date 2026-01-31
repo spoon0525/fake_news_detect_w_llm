@@ -1,0 +1,6 @@
+langchain-ollama
+langchain
+newspaper3k
+requests
+beautifulsoup4
+lxml
